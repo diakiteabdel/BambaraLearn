@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914112229640",
+    "project_id": "bamananlearn",
+    "storage_bucket": "bamananlearn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914112229640:android:ffa9a46cad095335093cbd",
+        "android_client_info": {
+          "package_name": "com.example.bambara_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXzjgKKuUo8ABM3hhtwKKjO2RRjG_t6qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914112229640:android:83eabe779d63492c093cbd",
+        "android_client_info": {
+          "package_name": "com.example.dashboard_bamananlearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXzjgKKuUo8ABM3hhtwKKjO2RRjG_t6qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
